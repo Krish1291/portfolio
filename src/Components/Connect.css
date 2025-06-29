@@ -1,0 +1,61 @@
+.connect-container {
+  background-color: #000;
+  color: #e0e0e0;
+  text-align: center;
+  padding: 140px 20px;
+}
+
+.connect-title {
+  font-size: 3rem;
+  color: #00f7ff;
+  margin-bottom: 50px;
+}
+
+.social-icons {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+  font-size: 2.5rem;
+  margin-bottom: 60px;
+}
+
+.social-icons a {
+  color: white;
+  transition: transform 0.3s, color 0.3s;
+}
+
+.social-icons a:hover {
+  transform: scale(1.2);
+  color: #00f7ff;
+}
+
+.contact-form {
+  max-width: 500px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+}
+
+.contact-form input,
+.contact-form textarea {
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+  font-size: 1rem;
+}
+
+.contact-form button {
+  background-color: #00f7ff;
+  color: black;
+  border: none;
+  padding: 12px;
+  font-size: 1rem;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.contact-form button:hover {
+  background-color: #00cfd1;
+}
