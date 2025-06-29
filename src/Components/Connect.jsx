@@ -22,7 +22,7 @@ const Connect = () => {
           <SiGmail />
         </a>
         <a
-          href="https://www.linkedin.com/in/your-profile"
+          href="https://www.linkedin.com/in/krish-dhiman-594491371/"
           title="LinkedIn"
           target="_blank"
           rel="noopener noreferrer"
@@ -30,7 +30,7 @@ const Connect = () => {
           <SiLinkedin />
         </a>
         <a
-          href="https://github.com/yourusername"
+          href="https://github.com/Krish1291"
           title="GitHub"
           target="_blank"
           rel="noopener noreferrer"

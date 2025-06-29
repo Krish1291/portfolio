@@ -1,7 +1,7 @@
 import "./Home.css";
-import { FaFacebook } from "react-icons/fa6";
+
 import { FaLinkedin } from "react-icons/fa";
-import { SiGmail } from "react-icons/si";
+import { SiGmail, SiGithub } from "react-icons/si";
 import { FaWhatsappSquare } from "react-icons/fa";
 const Home = () => {
   return (
@@ -81,13 +81,21 @@ const Home = () => {
             <img src="myImg.jpeg" alt="Krish Dhiman" />
           </div>
         </div>
-
-        <button className="btn">Contact Me</button>
+        <a href="#connect1" className="btn">
+          Contact Me
+        </a>
         <div className="icons">
-          <h4 className="facebook">
-            {" "}
-            <FaFacebook />
-          </h4>
+          <a
+            href="https://github.com/Krish1291"
+            title="GitHub"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            <h4 className="git">
+              {" "}
+              <SiGithub />
+            </h4>
+          </a>
           <a
             href="https://mail.google.com/mail/?view=cm&fs=1&to=dhimankrish663@gmail.com"
             target="_blank"
@@ -97,10 +105,11 @@ const Home = () => {
               <SiGmail />
             </h4>
           </a>
-
-          <h4 className="contact LinkedIn">
-            <FaLinkedin />
-          </h4>
+          <a href="https://www.linkedin.com/in/krish-dhiman-594491371/">
+            <h4 className="contact LinkedIn">
+              <FaLinkedin />
+            </h4>
+          </a>
           <h4 className="contact whatsapp">
             <a
               href="https://wa.me/8427180259"

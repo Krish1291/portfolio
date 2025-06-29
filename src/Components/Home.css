@@ -131,6 +131,9 @@ body {
   margin-left: 30px;
   cursor: pointer;
 }
+.LinkedIn {
+  color: white;
+}
 .gmail {
   color: #ffffff;
 }
@@ -143,8 +146,11 @@ body {
 .whatsapp:hover {
   color: #10c938;
 }
-.facebook:hover {
+.git:hover {
   color: #10c938;
+}
+.git {
+  color: white;
 }
 @keyframes fadeInUp {
   0% {
