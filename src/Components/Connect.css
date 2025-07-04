@@ -3,6 +3,7 @@
   color: #e0e0e0;
   text-align: center;
   padding: 140px 20px;
+  min-height: 100vh;
 }
 
 .connect-title {

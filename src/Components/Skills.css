@@ -22,7 +22,7 @@ body {
   align-items: center;
   gap: 30px;
   padding-bottom: 150px;
-  min-height: 80vh;
+  min-height: 100vh;
   scroll-margin-top: 100px;
 }
 
