@@ -77,10 +77,14 @@ const Project = () => {
           </div>
 
           <div className="project-info">
-            <h3>Resume Builder</h3>
+            <h3> QuickCV</h3>
             <p>
               A dynamic resume builder web app that allows users to input their
               details and generate a professional resume in real-time.
+            </p>
+            <p>
+              Users can choose from multiple modern resume templates according
+              to their preferences and download the final resume in PDF format.
             </p>
             <p id="stack">
               <strong>Tech Stack:</strong> React, CSS, JavaScript, HTML
