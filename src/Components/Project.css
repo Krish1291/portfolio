@@ -52,8 +52,6 @@ body {
 
   object-fit: contain;
   display: block;
-  border: 2px solid rgb(255, 255, 255);
-  border-radius: 25%;
 }
 
 .project-info {
