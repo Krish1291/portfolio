@@ -50,7 +50,7 @@ const Home = () => {
                   </a>
                 </li>
                 <li className="nav-item">
-                  <a className="nav-link" href="#about" id="features">
+                  <a className="nav-link" href="#Projects" id="features">
                     Projects
                   </a>
                 </li>

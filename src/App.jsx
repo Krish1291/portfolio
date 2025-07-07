@@ -5,12 +5,14 @@ import "bootstrap/dist/js/bootstrap.bundle.min.js";
 import Home from "./Components/Home";
 import Skills from "./Components/Skills";
 import Connect from "./Components/Connect";
+import Project from "./Components/Project";
 function App() {
   return (
     <>
       <Home></Home>
       <About></About>
       <Skills></Skills>
+      <Project></Project>
       <Connect></Connect>
     </>
   );
