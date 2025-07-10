@@ -15,8 +15,7 @@ const Skills = () => {
         <div className="Html" data-aos="zoom-out-up">
           <img src="Html.png" alt="HTML" />
         </div>
-        <br></br>
-        <br></br>
+
         <div className="Css" data-aos="zoom-out-up" data-aos-delay="100">
           <img src="Css.png" alt="CSS" />
         </div>

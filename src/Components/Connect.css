@@ -60,3 +60,19 @@
 .contact-form button:hover {
   background-color: #00cfd1;
 }
+
+@media (max-width: 600px) {
+  .connect-container {
+    margin-top: 400px;
+  }
+  .connect-title {
+    margin-left: 100px;
+  }
+  .social-icons {
+    margin-left: 110px;
+  }
+  .contact-form {
+    margin-left: 90px;
+    width: 80%;
+  }
+}
