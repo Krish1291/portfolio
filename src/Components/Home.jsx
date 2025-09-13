@@ -66,15 +66,16 @@ const Home = () => {
         <div className="introduction">
           <div className="intro-text">
             <h1>Hi, I'm Krish Dhiman</h1>
-            <h2 className="name">Frontend Developer</h2>
+            <h2 className="name">Software Developer</h2>
             <p className="para">
-              I'm a passionate frontend developer with a strong focus<br></br>{" "}
-              on creating responsive, user-friendly websites and web
-              applications. <br></br>I enjoy turning ideas into real-world
-              products using modern technologies<br></br> like React,
-              JavaScript, and CSS.<br></br> Always eager to learn and improve, I
-              strive to write clean,
-              <br></br> maintainable code and deliver great user experiences.
+              I'm a passionate software developer with a strong focus <br></br>
+              on building efficient, scalable, and user-friendly<br></br> web
+              applications. Skilled in both frontend and backend development,
+              <br></br> I enjoy turning ideas into real-world products using
+              modern technologies<br></br> like React, JavaScript,
+              Node.js,Express,MongoDB and CSS.<br></br> Always eager to learn
+              and improve, I strive to write clean,<br></br> maintainable code
+              and deliver seamless user experiences.
             </p>
           </div>
           <div className="image">

@@ -49,6 +49,16 @@ const Project = () => {
                 className="project-image"
               />
               <img
+                src="/signIn.PNG"
+                alt="Resume Page 1"
+                className="project-image"
+              />
+              <img
+                src="/register.PNG"
+                alt="Resume Page 1"
+                className="project-image"
+              />
+              <img
                 src="/form.PNG"
                 alt="Resume Page 2"
                 className="project-image"
@@ -93,7 +103,7 @@ const Project = () => {
             <br></br>
             <div className="project-links">
               <a
-                href="https://quick-cv-builder.netlify.app"
+                href="https://quick-cv-qkic.vercel.app"
                 target="_blank"
                 rel="noopener noreferrer"
               >

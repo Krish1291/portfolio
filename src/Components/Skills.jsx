@@ -28,6 +28,24 @@ const Skills = () => {
         <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
           <img src="Tailwind.png" alt="Tailwind" />
         </div>
+        <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
+          <img src="node.png" alt="Tailwind" />
+        </div>
+        <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
+          <img src="mongo.png" alt="Tailwind" />
+        </div>
+        <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
+          <img src="express.png" alt="Tailwind" />
+        </div>
+        <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
+          <img src="java.png" alt="Tailwind" />
+        </div>
+        <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
+          <img src="c++.PNG" alt="Tailwind" />
+        </div>
+         <div className="Tail" data-aos="zoom-out-up" data-aos-delay="400">
+          <img src="c.PNG" alt="Tailwind" />
+        </div>
       </div>
     </>
   );
